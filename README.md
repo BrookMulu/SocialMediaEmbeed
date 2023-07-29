@@ -41,3 +41,7 @@ Brook Mulu
 Segni Tulu
 Jaleta Tesgera
 
+Important Git Commands
+TO copy from remote to local branch locally: git pull origin main
+To update your local main branch git fetch; git pull;
+To swith brances git checkout <branch_name>
